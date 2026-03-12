@@ -1,0 +1,33 @@
+body{
+    font-family: Arial;
+    background:#f3f3f3;
+    text-align:center;
+}
+
+h1{
+    margin-top:30px;
+}
+
+.timeline{
+    width:60%;
+    margin:auto;
+}
+
+.event{
+    background:white;
+    padding:20px;
+    margin:15px;
+    border-left:6px solid #0077ff;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+.event:hover{
+    background:#e8f1ff;
+}
+
+.details{
+    display:none;
+    margin-top:10px;
+    color:#444;
+}
