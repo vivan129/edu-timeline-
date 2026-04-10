@@ -8,6 +8,7 @@ Static web project (HTML/CSS/JS).
 - `CONTRIBUTING.md`
 - `script.js`
 - `README.md`
+- `docs/PROJECT_CONTEXT.md`
 - `QUICKSTART.md`
 - `LICENSE`
 - `index.html`
@@ -18,8 +19,8 @@ Static web project (HTML/CSS/JS).
 - `tests/`
 
 ## Getting Started
-1. Serve locally: 
-2. Open .
+1. Serve locally: `python3 -m http.server 8000`
+2. Open `http://localhost:8000`.
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md).

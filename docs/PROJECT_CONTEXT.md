@@ -1,7 +1,7 @@
 # Project Context
 
 - Detected type: web-static
-- File count: 7
+- File count: 8
 - Generated on: 2026-04-10
 
 ## Key Files
@@ -9,6 +9,7 @@
 - `CONTRIBUTING.md`
 - `script.js`
 - `README.md`
+- `docs/PROJECT_CONTEXT.md`
 - `QUICKSTART.md`
 - `LICENSE`
 - `index.html`
