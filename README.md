@@ -1,20 +1,28 @@
 # edu-timeline-
 
 ## Overview
-This repository is maintained under a shared structure inspired by `distributed-robot-system` for consistency across projects.
+Static web project (HTML/CSS/JS).
 
-## Project Structure
-- docs/: documentation and design notes
-- scripts/: utility scripts
-- tests/: test-related files
+## Current Contents
+- `style.css`
+- `CONTRIBUTING.md`
+- `script.js`
+- `README.md`
+- `QUICKSTART.md`
+- `LICENSE`
+- `index.html`
+
+## Top-Level Structure
+- `docs/`
+- `scripts/`
+- `tests/`
 
 ## Getting Started
-1. Clone the repository.
-2. Review available files and docs.
-3. Run project-specific setup commands.
+1. Serve locally: 
+2. Open .
 
 ## Contributing
-See CONTRIBUTING.md for contribution workflow and quality expectations.
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
-MIT (see LICENSE).
+See [LICENSE](LICENSE).
